@@ -2,6 +2,10 @@ Seeking a 20 % position to fill with my Debian packaging experience.
 
 Experience (two decades of years) with TCP/IP networks and routing, debugging of software, runtime and build optimization of software. I am familiar with remote work, and ticket systems, active monitoring. Linux system maintenance, upgrades.
 
+Familiar with HTCondor, Slurm, GNU parallel, C, shell scripting (bash), ansible, software packaging for Debian/Ubuntu. Also packaging for Solaris, RPM (Red Hat, SuSE), and FreeBSD ports.
+
+User of macOS, Debian GNU/Linux + kFreeBSD. Also played with Haiku OS, FreeDOS, Minix, ReactOS.
+
 Do NOT contact me if you have very interesting opportunities about SQL databases, PHP, Adobe Flash, LDAP.
 
 <!--
