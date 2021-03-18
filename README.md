@@ -8,6 +8,12 @@ User of macOS, Debian GNU/Linux + kFreeBSD. Also played with Haiku OS, FreeDOS, 
 
 Do NOT contact me if you have very interesting opportunities about SQL databases, PHP, Adobe Flash, LDAP.
 
+Achivements
+- ascended `nethack` 3 times
+- used `./configure; make; make install`, `cmake`, `scons`, `meson`, `go build`, and many other build systems successfully
+- created my own Linux distribution, livecd.gnustep.org
+- created web application with framework7
+
 <!--
 **alexmyczko/alexmyczko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
