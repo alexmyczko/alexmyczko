@@ -13,7 +13,7 @@ Achievements
 - used `./configure; make; make install`, `cmake`, `scons`, `meson`, `go build`, and many other build systems successfully
 - created my own Linux distribution, livecd.gnustep.org
 - created web application with framework7
-- file(1) magic contributor
+- `file(1)` `magic(5)` contributor
 
 <!--
 **alexmyczko/alexmyczko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
