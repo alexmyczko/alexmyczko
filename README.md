@@ -31,4 +31,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmyczko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Metrics](https://metrics.lecoq.io/alexmyczko?template=classic&repositories.forks=true&base.metadata=0&lines=1&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Europe%2FZurich)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=alexmyczko.count_visitors)
