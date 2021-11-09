@@ -18,19 +18,15 @@ Achievements
 
 <!--
 **alexmyczko/alexmyczko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+![Metrics](https://metrics.lecoq.io/alexmyczko?template=classic&repositories.forks=true&base.metadata=0&lines=1&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Europe%2FZurich)
 -->
 
 ![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexmyczko&show_icons=true&theme=graywhite)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmyczko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Metrics](https://metrics.lecoq.io/alexmyczko?template=classic&repositories.forks=true&base.metadata=0&lines=1&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Europe%2FZurich)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=alexmyczko.count_visitors)
