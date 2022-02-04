@@ -28,5 +28,3 @@ Here are some ideas to get you started:
 ![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexmyczko&show_icons=true&theme=graywhite)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmyczko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=alexmyczko.count_visitors)
