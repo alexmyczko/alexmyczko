@@ -15,6 +15,7 @@ Achievements
 - created web application with [framework7](https://framework7.io)
 - `file(1)` `magic(5)` contributor
 - became [Debian Developer](https://qa.debian.org/developer.php?login=tar@debian.org)
+- own macbrew [taps](https://github.com/alexmyczko/homebrew-mac)
 
 <!--
 **alexmyczko/alexmyczko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
