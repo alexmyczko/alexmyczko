@@ -14,7 +14,7 @@ Achievements
 - created my own Linux distribution, livecd.gnustep.org
 - created web application with framework7
 - `file(1)` `magic(5)` contributor
-- became Debian Developer
+- became [Debian Developer](https://qa.debian.org/developer.php?login=tar@debian.org)
 
 <!--
 **alexmyczko/alexmyczko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
