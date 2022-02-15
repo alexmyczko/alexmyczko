@@ -11,8 +11,8 @@ Do NOT contact me if you have very interesting opportunities about SQL databases
 Achievements
 - ascended `nethack` 3 times
 - used `./configure; make; make install`, `cmake`, `scons`, `meson`, `go build`, and many other build systems successfully
-- created my own Linux distribution, livecd.gnustep.org
-- created web application with framework7
+- created my own Linux distribution, [GNUSTEP](livecd.gnustep.org)
+- created web application with [framework7](https://framework7.io)
 - `file(1)` `magic(5)` contributor
 - became [Debian Developer](https://qa.debian.org/developer.php?login=tar@debian.org)
 
