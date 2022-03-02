@@ -16,6 +16,7 @@ Achievements
 - `file(1)` `magic(5)` contributor
 - became [Debian Developer](https://qa.debian.org/developer.php?login=tar@debian.org)
 - own macbrew [taps](https://github.com/alexmyczko/homebrew-mac)
+- gpg user since 2001
 
 <!--
 **alexmyczko/alexmyczko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
