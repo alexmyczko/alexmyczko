@@ -1,4 +1,4 @@
-Seeking a 20 % position to fill with my Debian packaging experience.
+Please see [wedonthaveaprivacyproblem.com](https://github.com/wedonthaveaprivacyproblem/) for commercial consulting.
 
 Experience (two decades of years) with TCP/IP networks and routing, debugging of software, runtime and build optimization of software. I am familiar with remote work, and ticket systems, active monitoring. Linux system maintenance, upgrades.
 
