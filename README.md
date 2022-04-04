@@ -4,7 +4,7 @@ Experience (two decades of years) with TCP/IP networks and routing, debugging of
 
 Familiar with [HTCondor](https://htcondor.org), [Slurm](https://slurm.schedmd.com), GNU parallel, C, shell scripting (bash), ansible, software packaging for [Debian](https://debian.org)/Ubuntu, and macOS (with brew). Also packaging for Solaris, RPM (Red Hat, SuSE), and [FreeBSD](https://freebsd.org) ports.
 
-User of [macOS](https://next.com), Debian GNU/Linux + kFreeBSD. Also played with Haiku OS, FreeDOS, Minix, ReactOS.
+User of [macOS](https://next.com), Debian GNU/Linux + kFreeBSD. Also played with [Haiku OS](https://www.haiku-os.org), [FreeDOS](https://www.freedos.org), [Minix](https://www.minix3.org), [ReactOS](https://reactos.org), and NeXTSTEP/OPENSTEP.
 
 Do NOT contact me if you have very interesting opportunities about SQL databases, PHP, Adobe Flash, LDAP.
 
