@@ -6,7 +6,7 @@ Familiar with [HTCondor](https://htcondor.org), [Slurm](https://slurm.schedmd.co
 
 User of [macOS](https://next.com), Debian GNU/Linux + kFreeBSD. Also played with [Haiku OS](https://www.haiku-os.org), [FreeDOS](https://www.freedos.org), [Minix](https://www.minix3.org), [ReactOS](https://reactos.org), and NeXTSTEP/OPENSTEP.
 
-Do NOT contact me if you have very interesting opportunities about SQL databases, PHP, Adobe Flash, LDAP.
+Do NOT contact me if you have very interesting opportunities about PHP, Adobe Flash, LDAP.
 
 Achievements
 - ascended `nethack` 3 times
