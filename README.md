@@ -9,13 +9,16 @@ User of [macOS](https://next.com), Debian GNU/Linux + kFreeBSD. Also played with
 Do NOT contact me if you have very interesting opportunities about PHP, Adobe Flash, LDAP.
 
 Achievements
-- ascended `nethack` 3 times
+- built `nethack` and ascended `nethack` 3 times
 - used `./configure; make; make install`, `cmake`, `scons`, `meson`, `go build`, and many other build systems successfully
 - created my own Linux distribution, [GNUSTEP](http://livecd.gnustep.org)
 - created web application with [framework7](https://framework7.io)
 - `file(1)` `magic(5)` contributor
 - became [Debian Developer](https://qa.debian.org/developer.php?login=tar@debian.org)
 - own macbrew [taps](https://github.com/alexmyczko/homebrew-mac)
+- built gcc 2.x and gcc 5.x with later versions of gcc (for reasons)
+- optimized code/systems to have shorter runtime, shorter build time, be smaller in size.
+- debugging with tcpdump (or ngrep)
 - [gpg](https://db.debian.org/fetchkey.cgi?fingerprint=B60A1BF363DC1319FF0A8E89116852BCDF7515C0) user since 2001
 
 <!--
