@@ -2,7 +2,7 @@ Please see [wedonthaveaprivacyproblem.com](https://github.com/wedonthaveaprivacy
 
 Experience (two decades of years) with TCP/IP networks and routing, debugging of software, runtime and build optimization of software. I am familiar with remote work, and ticket systems, active monitoring. Linux system maintenance, upgrades.
 
-Familiar with [HTCondor](https://htcondor.org), [Slurm](https://slurm.schedmd.com), GNU parallel, C, shell scripting (bash), ansible, software packaging for [Debian](https://debian.org)/Ubuntu, and macOS (with brew). Also packaging for Solaris, RPM (Red Hat, SuSE), and [FreeBSD](https://freebsd.org) ports.
+Familiar with [HTCondor](https://htcondor.org), [Slurm](https://slurm.schedmd.com), GNU parallel, C, shell scripting (bash), ansible, software packaging for [Debian](https://debian.org)/Ubuntu, and macOS (with brew), and [FreeBSD](https://freebsd.org) ports.
 
 User of [macOS](https://next.com), Debian GNU/Linux + kFreeBSD. Also played with [Haiku OS](https://www.haiku-os.org), [FreeDOS](https://www.freedos.org), [Minix](https://www.minix3.org), [ReactOS](https://reactos.org), and NeXTSTEP/OPENSTEP.
 
