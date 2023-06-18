@@ -10,7 +10,7 @@ Do NOT contact me if you have very interesting opportunities about PHP, Adobe Fl
 
 Achievements
 - built `nethack` and ascended `nethack` 3 times
-- used `./configure; make; make install`, `cmake`, `scons`, `meson`, `go build`, `ruby`, `lua`, `rust`, and many other build systems successfully
+- used `./configure; make; make install`, `cmake`, `scons`, `meson`, `maven`, `go build`, `ruby`, `lua`, `rust`, and many other build systems successfully
 - created my own Linux distribution, [GNUSTEP](http://livecd.gnustep.org)
 - created web application with [framework7](https://framework7.io)
 - `file(1)` `magic(5)` contributor
