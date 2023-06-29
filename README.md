@@ -28,6 +28,7 @@ Wishlist
 - Apple M1+ to run Debian non-dsa porterbox
 - Amiga 500 Mini (because Amiga mouse is best)
 - SPARCstation to run OPENSTEP
+- Keychron K8 Pro
 
 <!--
 **alexmyczko/alexmyczko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
