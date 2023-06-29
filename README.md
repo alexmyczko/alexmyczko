@@ -23,6 +23,12 @@ Achievements
 - wrote [fnt](https://github.com/alexmyczko/fnt) font manager for Linux or macOS
 - wrote modern implementation of [ruptime](https://github.com/alexmyczko/ruptime)
 
+Wishlist
+- [RM800XL](https://revive-machines.com/index-en.html)
+- Apple M1+ to run Debian non-dsa porterbox
+- Amiga 500 Mini (because Amiga mouse is best)
+- SPARCstation to run OPENSTEP
+
 <!--
 **alexmyczko/alexmyczko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
