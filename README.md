@@ -25,10 +25,10 @@ Achievements
 
 Wishlist
 - [RM800XL](https://revive-machines.com/index-en.html)
-- Apple [M1](https://www.apple.com/ch-de-edu/shop/buy-mac/mac-mini/apple-m2-chip-mit-8-core-cpu-und-10-core-gpu-256gb) or [M2](https://www.apple.com/ch-de-edu/shop/buy-mac/mac-studio/12-core-cpu-30-core-gpu-16-core-neural-engine-32-gb-arbeitsspeicher-512gb) to run Debian non-dsa porterbox
-- Amiga 500 Mini (because Amiga mouse is best)
+- ~~Apple [M1](https://www.apple.com/ch-de-edu/shop/buy-mac/mac-mini/apple-m2-chip-mit-8-core-cpu-und-10-core-gpu-256gb) or [M2](https://www.apple.com/ch-de-edu/shop/buy-mac/mac-studio/12-core-cpu-30-core-gpu-16-core-neural-engine-32-gb-arbeitsspeicher-512gb) to run Debian non-dsa porterbox~~
+- ~~Amiga 500 Mini (because Amiga mouse is best)~~
 - SPARCstation to run OPENSTEP
-- [Keychron K8 Pro](https://www.digitec.ch/de/s1/product/keychron-k8-pro-us-kabelgebunden-kabellos-tastatur-22670050?ip=keychron+k8+pro)
+- ~~[Keychron K8 Pro](https://www.digitec.ch/de/s1/product/keychron-k8-pro-us-kabelgebunden-kabellos-tastatur-22670050?ip=keychron+k8+pro)~~
 
 <!--
 **alexmyczko/alexmyczko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
