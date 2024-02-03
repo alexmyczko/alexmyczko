@@ -25,6 +25,7 @@ Achievements
 
 Wishlist
 - [RM800XL](https://revive-machines.com/index-en.html)
+- [Amiga Clock](https://retrofied.uk/products/amiga-workbench-small-desktop-wall-clock)
 - ~~Apple [M1](https://www.apple.com/ch-de-edu/shop/buy-mac/mac-mini/apple-m2-chip-mit-8-core-cpu-und-10-core-gpu-256gb) or [M2](https://www.apple.com/ch-de-edu/shop/buy-mac/mac-studio/12-core-cpu-30-core-gpu-16-core-neural-engine-32-gb-arbeitsspeicher-512gb) to run Debian non-dsa porterbox~~
 - ~~Amiga 500 Mini (because Amiga mouse is best)~~
 - SPARCstation to run OPENSTEP
