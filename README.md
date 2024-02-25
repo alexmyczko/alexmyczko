@@ -20,6 +20,7 @@ Achievements
 - optimized code/systems to have shorter runtime, shorter build time, be smaller in size.
 - debugging with tcpdump (or ngrep)
 - [gpg](https://db.debian.org/fetchkey.cgi?fingerprint=B60A1BF363DC1319FF0A8E89116852BCDF7515C0) user since 2001
+- wrote [uberkey](https://github.com/alexmyczko/uberkey) a keylogger for x86
 - wrote [fnt](https://github.com/alexmyczko/fnt) font manager for Linux or macOS
 - wrote modern implementation of [ruptime](https://github.com/alexmyczko/ruptime)
 
