@@ -1,3 +1,5 @@
+If you like my stuff feel free to [nominate](https://stars.github.com/nominate) me.
+
 Please see [wedonthaveaprivacyproblem.com](https://github.com/wedonthaveaprivacyproblem/) for commercial consulting.
 
 Experience (two decades of years) with TCP/IP networks and routing, debugging of software, runtime and build optimization of software. I am familiar with remote work, and ticket systems, active monitoring. Linux system maintenance, upgrades.
