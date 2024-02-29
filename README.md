@@ -25,9 +25,10 @@ Achievements
 - wrote [uberkey](https://github.com/alexmyczko/uberkey) a keylogger for x86
 - wrote [fnt](https://github.com/alexmyczko/fnt) font manager for Linux or macOS
 - wrote modern implementation of [ruptime](https://github.com/alexmyczko/ruptime)
+- switched from Keychron K8 Pro TKL to [60%](https://www.reddit.com/r/MechanicalKeyboards/comments/1b2i0k1/m0110_with_tank/) [M0110](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/m0110.md)
 
 Wishlist
-- [Vortex M0110](https://vortexgear.store/products/m0110-qmk-via-vial-version?variant=43156282998947)
+- ~~[Vortex M0110](https://vortexgear.store/products/m0110-qmk-via-vial-version?variant=43156282998947)~~
 - [RM800XL](https://revive-machines.com/index-en.html)
 - [Amiga Clock](https://retrofied.uk/products/amiga-workbench-small-desktop-wall-clock)
 - ~~Apple [M1](https://www.apple.com/ch-de-edu/shop/buy-mac/mac-mini/apple-m2-chip-mit-8-core-cpu-und-10-core-gpu-256gb) or [M2](https://www.apple.com/ch-de-edu/shop/buy-mac/mac-studio/12-core-cpu-30-core-gpu-16-core-neural-engine-32-gb-arbeitsspeicher-512gb) to run Debian non-dsa porterbox~~
