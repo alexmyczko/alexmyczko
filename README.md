@@ -27,6 +27,11 @@ Achievements
 - wrote modern implementation of [ruptime](https://github.com/alexmyczko/ruptime)
 - switched from Keychron K8 Pro TKL to [60%](https://www.reddit.com/r/MechanicalKeyboards/comments/1b2i0k1/m0110_with_tank/) [M0110](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/m0110.md)
 
+Documents
+- [Debian Packaging TL;DR](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/debian-packaging.md)
+- [Vortex M0110](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/m0110.md) Fn Shortcuts
+- [Shotcut](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/shotcut.md) Shortcuts
+
 Wishlist
 - ~~[Vortex M0110](https://vortexgear.store/products/m0110-qmk-via-vial-version?variant=43156282998947)~~
 - [RM800XL](https://revive-machines.com/index-en.html)
