@@ -36,17 +36,12 @@ Wishlist
 - ~~[Vortex M0110](https://vortexgear.store/products/m0110-qmk-via-vial-version?variant=43156282998947)~~
 - [RM800XL](https://revive-machines.com/index-en.html)
 - [Amiga Clock](https://retrofied.uk/products/amiga-workbench-small-desktop-wall-clock)
-- ~~Apple [M1](https://www.apple.com/ch-de-edu/shop/buy-mac/mac-mini/apple-m2-chip-mit-8-core-cpu-und-10-core-gpu-256gb) or [M2](https://www.apple.com/ch-de-edu/shop/buy-mac/mac-studio/12-core-cpu-30-core-gpu-16-core-neural-engine-32-gb-arbeitsspeicher-512gb) to run Debian non-dsa porterbox~~
+- ~~Apple [M1](https://www.apple.com/ch-de-edu/shop/buy-mac/mac-mini/apple-m2-chip-mit-8-core-cpu-und-10-core-gpu-256gb) or [M2](https://www.apple.com/ch-de-edu/shop/buy-mac/mac-studio/12-core-cpu-30-core-gpu-16-core-neural-engine-32-gb-arbeitsspeicher-512gb) to run Debian non-dsa porterbox~~ > http://bananas.debian.net
 - ~~Amiga 500 Mini (because Amiga mouse is best)~~
 - SPARCstation to run OPENSTEP
 - ~~[Keychron K8 Pro](https://www.digitec.ch/de/s1/product/keychron-k8-pro-us-kabelgebunden-kabellos-tastatur-22670050?ip=keychron+k8+pro)~~
 
 <!--
-**alexmyczko/alexmyczko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
 ![Metrics](https://metrics.lecoq.io/alexmyczko?template=classic&repositories.forks=true&base.metadata=0&lines=1&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Europe%2FZurich)
 
 Something went wrong bananas!
