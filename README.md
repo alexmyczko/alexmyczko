@@ -11,7 +11,7 @@ User of [macOS](https://next.com), Debian GNU/Linux + kFreeBSD. Also played with
 Do NOT contact me if you have very interesting opportunities about PHP, Adobe Flash, LDAP.
 
 Achievements
-- built `nethack` and ascended `nethack` 3 times
+- built `nethack` and ascended [nethack](https://github.com/alexmyczko/nethack) 3 times
 - used `./configure; make; make install`, `cmake`, `scons`, `meson`, `maven`, `go build`, `ruby`, `lua`, `rust`, and many other build systems successfully
 - created my own Linux distribution, [GNUSTEP](http://livecd.gnustep.org)
 - created web application with [framework7](https://framework7.io)
