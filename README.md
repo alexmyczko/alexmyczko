@@ -31,6 +31,7 @@ Documents
 - [Debian Packaging TL;DR](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/debian-packaging.md)
 - [Vortex M0110](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/m0110.md) Fn Shortcuts
 - [Shotcut](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/shotcut.md) Shortcuts
+- [Got root?](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/got-root.md)
 
 Wishlist
 - [Pen](https://www.galaxus.ch/en/s12/product/caran-dache-849-popline-orange-pens-5608696)
