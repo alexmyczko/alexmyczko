@@ -34,6 +34,7 @@ Documents
 - [Got root?](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/got-root.md)
 
 Wishlist
+- [Yes](https://mykeyboard.eu/catalogue/modern-m0110-keyboard-kit_639/)
 - [Pen](https://www.galaxus.ch/en/s12/product/caran-dache-849-popline-orange-pens-5608696)
 - [NuPhy Halo65](https://nuphy.com/apps/wishlist/65ec733a16c406dafe64dc6d)
 - ~~[Vortex M0110](https://vortexgear.store/products/m0110-qmk-via-vial-version?variant=43156282998947)~~
