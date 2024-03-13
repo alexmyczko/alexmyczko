@@ -27,6 +27,14 @@ Achievements
 - wrote modern implementation of [ruptime](https://github.com/alexmyczko/ruptime)
 - switched from Keychron K8 Pro TKL to [60%](https://www.reddit.com/r/MechanicalKeyboards/comments/1b2i0k1/m0110_with_tank/) [M0110](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/m0110.md)
 
+Goals
+- Visit [MiniDebConf Berlin 2024](https://wiki.debian.org/DebianEvents/de/2024/MiniDebconfBerlin)
+- Package all ITPs and maybe some RFPs, see my QA page
+- deb2brew (automatic macOS homebrew generation)
+- abp (automatic backports from sid, simple sid backports)
+- deb2freebsd (automatic FreeBSD port generation)
+- Network Discovery/Mapping ingegrated into ruptime
+
 Documents
 - [Debian Packaging TL;DR](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/debian-packaging.md)
 - [Vortex M0110](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/m0110.md) Fn Shortcuts
