@@ -1,4 +1,4 @@
-If you like my stuff feel free to [nominate](https://stars.github.com/nominate) me.
+If you like my stuff feel free to [nominate](https://stars.github.com/nominate) me. You can buy me a coffee, [https://www.buymeacoffee.com/alexmy](Insert Coin).
 
 Please see [wedonthaveaprivacyproblem.com](https://github.com/wedonthaveaprivacyproblem/) for commercial consulting.
 
