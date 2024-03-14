@@ -40,6 +40,7 @@ Documents
 - [Vortex M0110](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/m0110.md) Fn Shortcuts
 - [Shotcut](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/shotcut.md) Shortcuts
 - [Got root?](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/got-root.md)
+- [Testing Hardware](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/hardware.md)
 
 Wishlist
 - [Yes](https://mykeyboard.eu/catalogue/modern-m0110-keyboard-kit_639/)
