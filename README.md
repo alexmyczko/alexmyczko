@@ -53,6 +53,7 @@ Wishlist
 - ~~Amiga 500 Mini (because Amiga mouse is best)~~
 - SPARCstation to run OPENSTEP
 - ~~[Keychron K8 Pro](https://www.digitec.ch/de/s1/product/keychron-k8-pro-us-kabelgebunden-kabellos-tastatur-22670050?ip=keychron+k8+pro)~~
+- Remote login to managed switches Cisco, Huawei, Juniper to enhance [ruptime](https://github.com/alexmyczko/ruptime)
 
 <!--
 ![Metrics](https://metrics.lecoq.io/alexmyczko?template=classic&repositories.forks=true&base.metadata=0&lines=1&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Europe%2FZurich)
