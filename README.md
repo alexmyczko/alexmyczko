@@ -34,6 +34,7 @@ Goals
 - abp (automatic backports from sid, simple sid backports)
 - deb2freebsd (automatic FreeBSD port generation)
 - Network Discovery/Mapping ingegrated into ruptime
+- Having fun [with](https://www.zazzle.ch/mbr/238224177574007497/likes?rf=238224177574007497)
 
 Documents
 - [Debian Packaging TL;DR](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/debian-packaging.md)
@@ -42,7 +43,7 @@ Documents
 - [Got root?](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/got-root.md)
 - [Testing Hardware](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/hardware.md)
 
-Wishlist
+Wishlist (sorted by importance)
 - Bones for our [great dane](https://www.flickr.com/photos/aiei/34397165464/).
 - Flowers for my wife, hint, she likes goździki.
 - [Yes](https://mykeyboard.eu/catalogue/modern-m0110-keyboard-kit_639/)
