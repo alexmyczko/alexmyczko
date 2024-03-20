@@ -43,6 +43,8 @@ Documents
 - [Testing Hardware](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/hardware.md)
 
 Wishlist
+- Bones for our [great dane](https://www.flickr.com/photos/aiei/34397165464/).
+- Flowers for my wife, hint, she likes goździki.
 - [Yes](https://mykeyboard.eu/catalogue/modern-m0110-keyboard-kit_639/)
 - [Pen](https://www.galaxus.ch/en/s12/product/caran-dache-849-popline-orange-pens-5608696)
 - [NuPhy Halo65](https://nuphy.com/apps/wishlist/65ec733a16c406dafe64dc6d)
