@@ -27,6 +27,9 @@ Achievements
 - wrote modern implementation of [ruptime](https://github.com/alexmyczko/ruptime)
 - switched from Keychron K8 Pro TKL to [60%](https://www.reddit.com/r/MechanicalKeyboards/comments/1b2i0k1/m0110_with_tank/) [M0110](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/m0110.md)
 
+Philosophy
+- You break it, you fix it.
+
 Goals
 - Visit [MiniDebConf Berlin 2024](https://wiki.debian.org/DebianEvents/de/2024/MiniDebconfBerlin)
 - Package all ITPs and maybe some RFPs, see my QA page
