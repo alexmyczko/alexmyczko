@@ -39,6 +39,7 @@ Goals
 - deb2freebsd (automatic FreeBSD port generation)
 - Network Discovery/Mapping ingegrated into ruptime
 - allow all vector mono fonts to be made available for `setfont` (see otf2bdf and bdf2psf)
+- start fixing `debsecan --format detail`
 - Having fun [with](https://www.zazzle.ch/mbr/238224177574007497/likes?rf=238224177574007497)
 
 Documents
