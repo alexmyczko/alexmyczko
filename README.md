@@ -29,6 +29,7 @@ Achievements
 
 Philosophy
 - You break it, you fix it.
+- [Do not overthink/overengineer](https://github.com/kelseyhightower/nocode)
 
 Goals
 - Visit [MiniDebConf Berlin 2024](https://wiki.debian.org/DebianEvents/de/2024/MiniDebconfBerlin)
