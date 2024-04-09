@@ -31,6 +31,7 @@ Philosophy
 - You break it, you fix it.
 - [Do not overthink/overengineer](https://github.com/kelseyhightower/nocode)
 - Observe, Think, Act (brain is not like soap, does not get less when used)
+- Consistency
 
 Goals
 - Visit [MiniDebConf Berlin 2024](https://wiki.debian.org/DebianEvents/de/2024/MiniDebconfBerlin)
