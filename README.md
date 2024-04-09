@@ -32,7 +32,7 @@ Philosophy
 - [Do not overthink/overengineer](https://github.com/kelseyhightower/nocode)
 - Observe, Think, Act (brain is not like soap, does not get less when used)
 - Consistency
-- [Simple systems have less dowwntime)(https://www.gkogan.co/blog/simple-systems/)
+- [Simple systems have less dowwntime](https://www.gkogan.co/blog/simple-systems/)
 
 Goals
 - Visit [MiniDebConf Berlin 2024](https://wiki.debian.org/DebianEvents/de/2024/MiniDebconfBerlin)
