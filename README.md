@@ -28,11 +28,12 @@ Achievements
 - switched from Keychron K8 Pro TKL to [60%](https://www.reddit.com/r/MechanicalKeyboards/comments/1b2i0k1/m0110_with_tank/) [M0110](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/m0110.md)
 
 Philosophy
-- You break it, you fix it.
+- You break it, you fix it
 - [Do not overthink/overengineer](https://github.com/kelseyhightower/nocode)
 - Observe, Think, Act (brain is not like soap, does not get less when used)
 - Consistency
 - [Simple systems have less dowwntime](https://www.gkogan.co/blog/simple-systems/)
+- [Mise en place](https://en.wikipedia.org/wiki/Mise_en_place) also works for me
 
 Goals
 - Visit [MiniDebConf Berlin 2024](https://wiki.debian.org/DebianEvents/de/2024/MiniDebconfBerlin)
