@@ -1,4 +1,4 @@
-If you like my stuff feel free to [nominate](https://stars.github.com/nominate) me. You can buy me a coffee, [Insert Coin](https://www.buymeacoffee.com/alexmy).
+ich If you like my stuff feel free to [nominate](https://stars.github.com/nominate) me. You can buy me a coffee, [Insert Coin](https://www.buymeacoffee.com/alexmy).
 
 Please see [wedonthaveaprivacyproblem.com](https://github.com/wedonthaveaprivacyproblem/) for commercial consulting.
 
@@ -26,6 +26,7 @@ Achievements
 - wrote [fnt](https://github.com/alexmyczko/fnt) font manager for Linux or macOS
 - wrote modern implementation of [ruptime](https://github.com/alexmyczko/ruptime)
 - switched from Keychron K8 Pro TKL to [60%](https://www.reddit.com/r/MechanicalKeyboards/comments/1b2i0k1/m0110_with_tank/) [M0110](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/m0110.md)
+- [GitRoll](https://gitroll.io/profile/uaSepoTD0VxNQbhD8hRzeYneXwNn2)
 
 Philosophy
 - You break it, you fix it
