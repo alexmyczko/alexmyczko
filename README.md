@@ -37,7 +37,7 @@ Philosophy
 - [Mise en place](https://en.wikipedia.org/wiki/Mise_en_place) also works for me
 
 Goals
-- Visit [MiniDebConf Berlin 2024](https://wiki.debian.org/DebianEvents/de/2024/MiniDebconfBerlin)
+- Visit [MiniDebConf Berlin 2024](https://wiki.debian.org/DebianEvents/de/2024/MiniDebconfBerlin) and give talks
 - Package all ITPs and maybe some RFPs, see my [QA page](https://qa.debian.org/developer.php?login=gurkan%40phys.ethz.ch)
 - [coot](https://ftp-master.debian.org/new/coot_1.1.07.705.gb7e2c16a2+dfsg-1.html), root-system, geant4, relion
 - deb2brew (automatic macOS homebrew generation)
@@ -59,8 +59,8 @@ Wishlist (sorted by importance)
 - Bones for our [great dane](https://www.flickr.com/photos/aiei/34397165464/).
 - Flowers for my wife, hint, she likes goździki.
 - [Yes](https://mykeyboard.eu/catalogue/modern-m0110-keyboard-kit_639/)
-- Roland TB-03
-- Roland TR-08
+- [Roland TB-03](https://www.digitec.ch/de/s1/product/roland-tb-03-synthesizer-12811472?supplier=406802&utm_source=google&utm_medium=cpc&utm_campaign=PROD_CH_PMAX_CSS_Cluster_5&campaignid=20384870329&adgroupid=&adid=&dgCidg=CjwKCAjw_e2wBhAEEiwAyFFFo8M0z_FRuv3G5P5bDgVwALVCaJ17QRUKzJNfWtAadhDmw2XcOpPJWRoCYjMQAvD_BwE&gad_source=1&gclid=CjwKCAjw_e2wBhAEEiwAyFFFo8M0z_FRuv3G5P5bDgVwALVCaJ17QRUKzJNfWtAadhDmw2XcOpPJWRoCYjMQAvD_BwE&gclsrc=aw.ds)
+- [Roland TR-08](https://www.digitec.ch/de/s1/product/roland-tr-08-groovebox-midi-controller-12826452?ip=tr-08)
 - [Pen](https://www.galaxus.ch/en/s12/product/caran-dache-849-popline-orange-pens-5608696)
 - [NuPhy Halo65](https://nuphy.com/apps/wishlist/65ec733a16c406dafe64dc6d)
 - ~~[Vortex M0110](https://vortexgear.store/products/m0110-qmk-via-vial-version?variant=43156282998947)~~
