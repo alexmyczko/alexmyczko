@@ -33,7 +33,7 @@ Philosophy
 - [Do not overthink/overengineer](https://github.com/kelseyhightower/nocode)
 - Observe, Think, Act (brain is not like soap, does not get less when used)
 - Consistency
-- [Simple systems have less dowwntime](https://www.gkogan.co/blog/simple-systems/)
+- [Simple systems have less downtime](https://www.gkogan.co/blog/simple-systems/)
 - [Mise en place](https://en.wikipedia.org/wiki/Mise_en_place) also works for me
 
 Goals
