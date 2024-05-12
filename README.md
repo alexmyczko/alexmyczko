@@ -69,6 +69,7 @@ Wishlist (sorted by importance)
 - ~~Apple [M1](https://www.apple.com/ch-de-edu/shop/buy-mac/mac-mini/apple-m2-chip-mit-8-core-cpu-und-10-core-gpu-256gb) or [M2](https://www.apple.com/ch-de-edu/shop/buy-mac/mac-studio/12-core-cpu-30-core-gpu-16-core-neural-engine-32-gb-arbeitsspeicher-512gb) to run Debian non-dsa porterbox~~ > http://bananas.debian.net
 - ~~Amiga 500 Mini (because Amiga mouse is best)~~
 - SPARCstation to run OPENSTEP
+- [Amiga Tank Mouse](https://www.ebay.de/itm/125915566672?chn=ps&_ul=DE&norover=1&mkevt=1&mkrid=707-168914-925416-0&mkcid=2&itemid=125915566672&targetid=293946777986&device=m&mktype=pla&googleloc=1003297&poi=&campaignid=20357221430&mkgroupid=146340207970&rlsatarget=pla-293946777986&abcId=&merchantid=7364532&gad_source=1&gclid=CjwKCAjw0YGyBhByEiwAQmBEWjQ1pi11cgBH8Xqhi05NOrg9q8f2nKil_MmwGFyuHdrtBbFI_xRtZxoC51UQAvD_BwE)
 - ~~[Keychron K8 Pro](https://www.digitec.ch/de/s1/product/keychron-k8-pro-us-kabelgebunden-kabellos-tastatur-22670050?ip=keychron+k8+pro)~~
 - ~~Remote login to managed switches Cisco, Huawei, Juniper to enhance [ruptime](https://github.com/alexmyczko/ruptime)~~
 
