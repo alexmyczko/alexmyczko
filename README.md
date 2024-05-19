@@ -37,7 +37,7 @@ Philosophy
 - [Mise en place](https://en.wikipedia.org/wiki/Mise_en_place) also works for me
 
 Goals
-- Visit [MiniDebConf Berlin 2024](https://wiki.debian.org/DebianEvents/de/2024/MiniDebconfBerlin) and give talks
+- Visit [MiniDebConf Berlin 2024](https://wiki.debian.org/DebianEvents/de/2024/MiniDebconfBerlin) and give talks, [Apple on Bananas](https://github.com/alexmyczko/autoexec.bat/Documents/bananas.md), [ruptime](https://github.com/alexmyczko/autoexec.bat/Documents/ruptime.key)
 - Package all ITPs and maybe some RFPs, see my [QA page](https://qa.debian.org/developer.php?login=gurkan%40phys.ethz.ch)
 - [coot](https://ftp-master.debian.org/new/coot_1.1.07.705.gb7e2c16a2+dfsg-1.html), root-system, geant4, relion
 - deb2brew (automatic macOS homebrew generation)
