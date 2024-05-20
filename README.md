@@ -1,4 +1,4 @@
-ich If you like my stuff feel free to [nominate](https://stars.github.com/nominate) me. You can buy me a coffee, [Insert Coin](https://www.buymeacoffee.com/alexmy).
+If you like my stuff feel free to [nominate](https://stars.github.com/nominate) me. You can buy me a coffee, [Insert Coin](https://www.buymeacoffee.com/alexmy).
 
 Please see [wedonthaveaprivacyproblem.com](https://github.com/wedonthaveaprivacyproblem/) for commercial consulting.
 
