@@ -54,6 +54,7 @@ Documents
 - [Shotcut](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/shotcut.md) Shortcuts
 - [Got root?](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/got-root.md)
 - [Testing Hardware](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/hardware.md)
+- [AI - blessing or curse](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/ai.pdf)
 
 Wishlist (sorted by importance)
 - Bones for our [great dane](https://www.flickr.com/photos/aiei/34397165464/).
