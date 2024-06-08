@@ -55,6 +55,7 @@ Documents
 - [Shotcut](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/shotcut.md) Shortcuts
 - [Got root?](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/got-root.md)
 - [Testing Hardware](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/hardware.md)
+- [State of Linux on recent Apple Hardware](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/bananas.md)
 - [ruptime](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/ruptime.pdf)
 - [AI - blessing or curse](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/ai.pdf)
 
