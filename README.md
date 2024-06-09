@@ -64,7 +64,7 @@ Documents
 Wishlist (sorted by importance)
 - Bones for our [great dane](https://www.flickr.com/photos/aiei/34397165464/).
 - Flowers for my wife, hint, she likes goździki.
-- [Yes](https://mykeyboard.eu/catalogue/modern-m0110-keyboard-kit_639/)
+- [Yes](https://web.archive.org/web/20211109055443/https://mykeyboard.eu/catalogue/modern-m0110-keyboard-kit_639/)
 - [Roland TB-03](https://www.digitec.ch/de/s1/product/roland-tb-03-synthesizer-12811472?supplier=406802&utm_source=google&utm_medium=cpc&utm_campaign=PROD_CH_PMAX_CSS_Cluster_5&campaignid=20384870329&adgroupid=&adid=&dgCidg=CjwKCAjw_e2wBhAEEiwAyFFFo8M0z_FRuv3G5P5bDgVwALVCaJ17QRUKzJNfWtAadhDmw2XcOpPJWRoCYjMQAvD_BwE&gad_source=1&gclid=CjwKCAjw_e2wBhAEEiwAyFFFo8M0z_FRuv3G5P5bDgVwALVCaJ17QRUKzJNfWtAadhDmw2XcOpPJWRoCYjMQAvD_BwE&gclsrc=aw.ds)
 - [Roland TR-08](https://www.digitec.ch/de/s1/product/roland-tr-08-groovebox-midi-controller-12826452?ip=tr-08)
 - [Pen](https://www.galaxus.ch/en/s12/product/caran-dache-849-popline-orange-pens-5608696)
