@@ -39,7 +39,7 @@ Philosophy
 
 Goals
 - Visit [MiniDebConf Berlin 2024](https://wiki.debian.org/DebianEvents/de/2024/MiniDebconfBerlin) and give talks, [Apple on Bananas](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/bananas.md), [ruptime](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/ruptime.key)
-- Package all ITPs and maybe some RFPs, see my [QA page](https://qa.debian.org/developer.php?login=gurkan%40phys.ethz.ch)
+- Package all ITPs and maybe some RFPs, see my [QA page](https://qa.debian.org/developer.php?login=tar%40debian.org)
 - [coot](https://packages.debian.org/coot), [root-framework](https://salsa.debian.org/science-team/root), [geant4](https://github.com/alexmyczko/homebrew-mac/blob/main/geant4.rb), relion
 - deb2brew (automatic macOS homebrew generation)
 - [abp](https://github.com/alexmyczko/autoexec.bat/blob/master/abp) (automatic backports from sid, simple sid backports)
