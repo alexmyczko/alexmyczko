@@ -40,7 +40,7 @@ Philosophy
 Goals
 - Visit [MiniDebConf Berlin 2024](https://wiki.debian.org/DebianEvents/de/2024/MiniDebconfBerlin) and give talks, [Apple on Bananas](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/bananas.md), [ruptime](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/ruptime.key)
 - Package all ITPs and maybe some RFPs, see my [QA page](https://qa.debian.org/developer.php?login=gurkan%40phys.ethz.ch)
-- [coot](https://packages.debian.org/coot), root-system, geant4, relion
+- [coot](https://packages.debian.org/coot), [root-framework](https://salsa.debian.org/science-team/root), [geant4](https://github.com/alexmyczko/homebrew-mac/blob/main/geant4.rb), relion
 - deb2brew (automatic macOS homebrew generation)
 - [abp](https://github.com/alexmyczko/autoexec.bat/blob/master/abp) (automatic backports from sid, simple sid backports)
 - deb2freebsd (automatic FreeBSD port generation)
@@ -66,7 +66,7 @@ Wishlist (sorted by importance)
 - Flowers for my wife, hint, she likes goździki.
 - [Yes](https://web.archive.org/web/20211109055443/https://mykeyboard.eu/catalogue/modern-m0110-keyboard-kit_639/)
 - ~~[Roland TB-03](https://www.digitec.ch/de/s1/product/roland-tb-03-synthesizer-12811472?supplier=406802&utm_source=google&utm_medium=cpc&utm_campaign=PROD_CH_PMAX_CSS_Cluster_5&campaignid=20384870329&adgroupid=&adid=&dgCidg=CjwKCAjw_e2wBhAEEiwAyFFFo8M0z_FRuv3G5P5bDgVwALVCaJ17QRUKzJNfWtAadhDmw2XcOpPJWRoCYjMQAvD_BwE&gad_source=1&gclid=CjwKCAjw_e2wBhAEEiwAyFFFo8M0z_FRuv3G5P5bDgVwALVCaJ17QRUKzJNfWtAadhDmw2XcOpPJWRoCYjMQAvD_BwE&gclsrc=aw.ds)~~
-- [Roland TR-08](https://www.digitec.ch/de/s1/product/roland-tr-08-groovebox-midi-controller-12826452?ip=tr-08)
+- ~~[Roland TR-08](https://www.digitec.ch/de/s1/product/roland-tr-08-groovebox-midi-controller-12826452?ip=tr-08)~~ Roland TR-8S
 - ~~[Pen](https://www.galaxus.ch/en/s12/product/caran-dache-849-popline-orange-pens-5608696)~~
 - [NuPhy Halo65](https://nuphy.com/apps/wishlist/65ec733a16c406dafe64dc6d)
 - ~~[Vortex M0110](https://vortexgear.store/products/m0110-qmk-via-vial-version?variant=43156282998947)~~
