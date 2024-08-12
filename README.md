@@ -58,8 +58,8 @@ Documents
 - [State of Linux on recent Apple Hardware](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/bananas.md)
 - [ruptime](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/ruptime.pdf)
 - [AI - blessing or curse](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/ai.pdf)
-- [Debug, Profile, Optimize]()
-- [Consistency]()
+- [Debug, Profile, Optimize](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/debug-profile-optimize.md)
+- [Consistency](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/consistency.md)
 
 Wishlist (sorted by importance)
 - Bones for our [great dane](https://www.flickr.com/photos/aiei/34397165464/).
