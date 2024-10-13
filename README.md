@@ -64,7 +64,6 @@ Wishlist (sorted by importance)
 - Flowers for my wife, hint, she likes goździki.
 - [Yes](https://web.archive.org/web/20211109055443/https://mykeyboard.eu/catalogue/modern-m0110-keyboard-kit_639/)
 - ~~[Pen](https://www.galaxus.ch/en/s12/product/caran-dache-849-popline-orange-pens-5608696)~~
-- [NuPhy Halo65](https://nuphy.com/apps/wishlist/65ec733a16c406dafe64dc6d)
 - ~~[Vortex M0110](https://vortexgear.store/products/m0110-qmk-via-vial-version?variant=43156282998947)~~
 - [RM800XL](https://revive-machines.com/index-en.html)
 - [Amiga Clock](https://retrofied.uk/products/amiga-workbench-small-desktop-wall-clock)
