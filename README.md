@@ -58,15 +58,11 @@ Documents
 - [State of Linux on recent Apple Hardware](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/bananas.md)
 - [ruptime](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/ruptime.pdf)
 - [AI - blessing or curse](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/ai.pdf)
-- [Debug, Profile, Optimize](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/debug-profile-optimize.md)
-- [Consistency](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/consistency.md)
 
 Wishlist (sorted by importance)
 - Bones for our [great dane](https://www.flickr.com/photos/aiei/34397165464/).
 - Flowers for my wife, hint, she likes goździki.
 - [Yes](https://web.archive.org/web/20211109055443/https://mykeyboard.eu/catalogue/modern-m0110-keyboard-kit_639/)
-- ~~[Roland TB-03](https://www.digitec.ch/de/s1/product/roland-tb-03-synthesizer-12811472?supplier=406802&utm_source=google&utm_medium=cpc&utm_campaign=PROD_CH_PMAX_CSS_Cluster_5&campaignid=20384870329&adgroupid=&adid=&dgCidg=CjwKCAjw_e2wBhAEEiwAyFFFo8M0z_FRuv3G5P5bDgVwALVCaJ17QRUKzJNfWtAadhDmw2XcOpPJWRoCYjMQAvD_BwE&gad_source=1&gclid=CjwKCAjw_e2wBhAEEiwAyFFFo8M0z_FRuv3G5P5bDgVwALVCaJ17QRUKzJNfWtAadhDmw2XcOpPJWRoCYjMQAvD_BwE&gclsrc=aw.ds)~~
-- ~~[Roland TR-08](https://www.digitec.ch/de/s1/product/roland-tr-08-groovebox-midi-controller-12826452?ip=tr-08)~~ Roland TR-8S
 - ~~[Pen](https://www.galaxus.ch/en/s12/product/caran-dache-849-popline-orange-pens-5608696)~~
 - [NuPhy Halo65](https://nuphy.com/apps/wishlist/65ec733a16c406dafe64dc6d)
 - ~~[Vortex M0110](https://vortexgear.store/products/m0110-qmk-via-vial-version?variant=43156282998947)~~
@@ -77,7 +73,6 @@ Wishlist (sorted by importance)
 - SPARCstation to run OPENSTEP
 - [Amiga Tank Mouse](https://www.ebay.de/itm/125915566672?chn=ps&_ul=DE&norover=1&mkevt=1&mkrid=707-168914-925416-0&mkcid=2&itemid=125915566672&targetid=293946777986&device=m&mktype=pla&googleloc=1003297&poi=&campaignid=20357221430&mkgroupid=146340207970&rlsatarget=pla-293946777986&abcId=&merchantid=7364532&gad_source=1&gclid=CjwKCAjw0YGyBhByEiwAQmBEWjQ1pi11cgBH8Xqhi05NOrg9q8f2nKil_MmwGFyuHdrtBbFI_xRtZxoC51UQAvD_BwE)
 - ~~[Keychron K8 Pro](https://www.digitec.ch/de/s1/product/keychron-k8-pro-us-kabelgebunden-kabellos-tastatur-22670050?ip=keychron+k8+pro)~~
-- ~~Remote login to managed switches Cisco, Huawei, Juniper to enhance [ruptime](https://github.com/alexmyczko/ruptime)~~
 
 <!--
 ![Metrics](https://metrics.lecoq.io/alexmyczko?template=classic&repositories.forks=true&base.metadata=0&lines=1&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Europe%2FZurich)
