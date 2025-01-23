@@ -71,7 +71,6 @@ Wishlist (sorted by importance)
 - ~~Amiga 500 Mini (because Amiga mouse is best)~~
 - SPARCstation to run OPENSTEP
 - [Amiga Tank Mouse](https://www.ebay.de/itm/125915566672?chn=ps&_ul=DE&norover=1&mkevt=1&mkrid=707-168914-925416-0&mkcid=2&itemid=125915566672&targetid=293946777986&device=m&mktype=pla&googleloc=1003297&poi=&campaignid=20357221430&mkgroupid=146340207970&rlsatarget=pla-293946777986&abcId=&merchantid=7364532&gad_source=1&gclid=CjwKCAjw0YGyBhByEiwAQmBEWjQ1pi11cgBH8Xqhi05NOrg9q8f2nKil_MmwGFyuHdrtBbFI_xRtZxoC51UQAvD_BwE)
-- ~~[Keychron K8 Pro](https://www.digitec.ch/de/s1/product/keychron-k8-pro-us-kabelgebunden-kabellos-tastatur-22670050?ip=keychron+k8+pro)~~
 
 <!--
 ![Metrics](https://metrics.lecoq.io/alexmyczko?template=classic&repositories.forks=true&base.metadata=0&lines=1&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Europe%2FZurich)
