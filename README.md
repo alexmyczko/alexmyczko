@@ -1,7 +1,5 @@
 If you like my stuff feel free to [nominate](https://stars.github.com/nominate) me. You can buy me a coffee, [Insert Coin](https://www.buymeacoffee.com/alexmy).
 
-Please see [wedonthaveaprivacyproblem.com](https://github.com/wedonthaveaprivacyproblem/) for commercial consulting.
-
 Experience (two decades of years) with TCP/IP networks and routing, debugging of software, runtime and build optimization of software. I am familiar with remote work, and ticket systems, active monitoring. Linux system maintenance, upgrades.
 
 Familiar with [HTCondor](https://htcondor.org), [Slurm](https://slurm.schedmd.com), GNU parallel, C, shell scripting (bash/sed/awk), ansible, software packaging for [Debian](https://debian.org)/Ubuntu, and macOS (with brew), and [FreeBSD](https://freebsd.org) ports.
