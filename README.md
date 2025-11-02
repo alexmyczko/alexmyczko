@@ -6,8 +6,6 @@ Familiar with [HTCondor](https://htcondor.org), [Slurm](https://slurm.schedmd.co
 
 User of [macOS](https://next.com), Debian GNU/Linux + kFreeBSD. Also played with [GNU/Hurd](https://www.debian.org/ports/hurd/), [Haiku OS](https://www.haiku-os.org), [FreeDOS](https://www.freedos.org), [Minix](https://www.minix3.org), [ReactOS](https://reactos.org), [sel4](https://sel4.systems/), [Plan9](https://9p.io/plan9/), and NeXTSTEP/OPENSTEP.
 
-Do NOT contact me if you have very interesting opportunities about PHP, Adobe Flash.
-
 Achievements
 - built `nethack` and ascended [nethack](https://github.com/alexmyczko/nethack) 3 times
 - used `./configure; make; make install`, `cmake`, `scons`, `meson`, `maven`, `go build`, `ruby`, `lua`, `rust`, and many other build systems successfully
