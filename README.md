@@ -58,6 +58,7 @@ Documents
 Wishlist (sorted by importance)
 - Bones for our [great dane](https://www.flickr.com/photos/aiei/34397165464/).
 - Flowers for my wife, hint, she likes goździki.
+- [Vortex M0110A](https://vortexgear.store/products/m0110a-assembly-service?variant=44798478516387)
 - [Yes](https://web.archive.org/web/20211109055443/https://mykeyboard.eu/catalogue/modern-m0110-keyboard-kit_639/)
 - ~~[Pen](https://www.galaxus.ch/en/s12/product/caran-dache-849-popline-orange-pens-5608696)~~
 - ~~[Vortex M0110](https://vortexgear.store/products/m0110-qmk-via-vial-version?variant=43156282998947)~~
