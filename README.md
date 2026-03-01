@@ -21,8 +21,7 @@ Achievements
 - wrote [uberkey](https://github.com/alexmyczko/uberkey) a keylogger for x86
 - wrote [fnt](https://github.com/alexmyczko/fnt) font manager for Linux or macOS
 - wrote modern implementation of [ruptime](https://github.com/alexmyczko/ruptime)
-- switched from Keychron K8 Pro TKL to [60%](https://www.reddit.com/r/MechanicalKeyboards/comments/1b2i0k1/m0110_with_tank/) [M0110](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/m0110.md)
-- [GitRoll](https://gitroll.io/profile/uaSepoTD0VxNQbhD8hRzeYneXwNn2)
+- like [60%](https://www.reddit.com/r/MechanicalKeyboards/comments/1b2i0k1/m0110_with_tank/) [M0110](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/m0110.md)
 - [Shiptalkers](https://shiptalkers.dev/compare?github=alexmyczko&twitter=aieidotch)
 
 Philosophy
