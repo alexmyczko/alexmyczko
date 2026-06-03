@@ -33,12 +33,11 @@ Philosophy
 - [Mise en place](https://en.wikipedia.org/wiki/Mise_en_place) also works for me
 
 Goals
-- Visit [MiniDebConf Berlin 2024](https://wiki.debian.org/DebianEvents/de/2024/MiniDebconfBerlin) and give talks, [Apple on Bananas](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/bananas.md), [ruptime](https://github.com/alexmyczko/autoexec.bat/blob/master/Documents/ruptime.key)
-- Package all ITPs and maybe some RFPs, see my [QA page](https://qa.debian.org/developer.php?login=tar%40debian.org)
+- Visit [MiniDebConf Winterthur 2026](https://wiki.debian.org/DebianEvents/ch/2026/MiniDebConf)
+- Visit [MiniDebConf Berlin 2024](https://wiki.debian.org/DebianEvents/de/2024/MiniDebconfBerlin)
 - [coot](https://packages.debian.org/coot), [root-framework](https://salsa.debian.org/science-team/root), [geant4](https://github.com/alexmyczko/homebrew-mac/blob/main/geant4.rb), relion
 - deb2brew (automatic macOS homebrew generation)
 - [abp](https://github.com/alexmyczko/autoexec.bat/blob/master/abp) (automatic backports from sid, simple sid backports)
-- deb2freebsd (automatic FreeBSD port generation)
 - Network Discovery/Mapping ingegrated into ruptime
 - allow all vector mono fonts to be made available for `setfont` (see otf2bdf and bdf2psf)
 - start fixing `debsecan --format detail`
